@@ -10,7 +10,6 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
  * @since 2024-02-20
  */
 @SpringBootApplication
-//@EnableOpenApi
 public class EasyShop {
 
     public static void main(String[] args) {
